@@ -1,0 +1,27 @@
+# Ignore log files
+*.log
+
+# Ignore translation files
+*.pot
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore SQLite database
+db.sqlite3
+
+# Ignore media directory
+media/
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore environment variable files
+.env
+
+# Ignore virtual environment directories
+.env/
+.venv/
+env/
+venv/
